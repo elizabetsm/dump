@@ -1,0 +1,27 @@
+create table Crash (
+    id varchar(100) unique not null ,
+    chrome_trace_id varchar(100),
+    extensions jsonb,
+    gpu_glver varchar(100),
+    osarch varchar(100),
+    plat varchar(100),
+    prod varchar(100),
+    pid varchar(100),
+    ptype varchar(100),
+    switches jsonb, -- command line args
+    version varchar(100),
+    total_discardable_memory_allocated int,
+    gpu_devid varchar(100),
+    gpu_driver varchar(100),
+    gpu_generation_intel varchar(100),
+    gpu_count int,
+    guid varchar(100),
+    nsevent varchar(400),
+    num_experiments int,
+    num_extensions int,
+    num_switches int,
+    reentry_guard_tls_slot int,
+    total_discardable_memory_allocated int,
+    variations varchar(100),
+    creation_date date
+    );
