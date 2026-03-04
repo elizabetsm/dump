@@ -1,0 +1,42 @@
+curl 'https://clients2.google.com/cr/report?product=Chrome_Mac&version=145.0.7632.117&guid=ff4382ba-4f6d-442e-934c-c83ce5869e2f' \
+-X POST \
+-H 'Host: clients2.google.com' \
+-H 'Transfer-Encoding: chunked' \
+-H 'Accept: */*' \
+-H 'User-Agent: Crashpad/0.8.0 CFNetwork/3860.400.51 Darwin/25.3.0 (arm64)' \
+-H 'Accept-Language: en-US,en;q=0.9' \
+-H 'Connection: keep-alive' \
+-H 'Content-Type: multipart/form-data' \
+-F channel= \
+-F chrome-trace-id=6509109748134089558 \
+-F extension-1=ghbmnnjooekpmoecnnnilnnbdlolhkhi \
+-F extension-2=nmmhkkegccagdldgiimedpiccmgmieda \
+-F gpu-devid=0x0000 \
+-F gpu-driver=26.3 \
+-F gpu-generation-intel=0 \
+-F gpu-glver=OpenGL ES 3.0 (ANGLE 2.1.26821 git hash: 4c0ae3917d4f) \
+-F gpu-psver=3.00 \
+-F gpu-venid=0x106b \
+-F gpu-vsver=3.00 \
+-F gpu_count=1 \
+-F guid=ff4382ba-4f6d-442e-934c-c83ce5869e2f \
+-F nsevent=NSEvent type=10 modifierFlags=0x100 locationInWindow=(0,1156) keyCode=0x36 ARepeat=0 characters='
+' unmodifiedCharacters='
+' \
+-F num-experiments=24 \
+-F num-extensions=2 \
+-F num-switches=7 \
+-F osarch=arm64 \
+-F pid=57755 \
+-F plat=OS X \
+-F prod=Chrome_Mac \
+-F ptype=browser \
+-F reentry_guard_tls_slot=265 \
+-F switch-1=--user-data-dir=/var/folders/qj/gd9b_mdj4f149g6mvrtvrh7w0000gn/T \
+-F switch-2=--no-sandbox \
+-F switch-3=--enable-crash-reporter-for-testing \
+-F total-discardable-memory-allocated=4194304 \
+-F variations=b357b792-dcf2ae30,f4f00e05-ca7d8d80,9481ce98-3d47f4f4,2a426c03-3d47f4f4,70678518-dee66fa8,be338734-dee66fa8,5f9907a9-dee66fa8,8eeccb9a-dee66fa8,2b465683-dee66fa8,52fc7926-dee66fa8,bc9b361d-dee66fa8,a41a7188-dee66fa8,ff71bfdc-dee66fa8,2159dd0c-dee66fa8,e7cc79d5-dee66fa8,4b935545-3d47f4f4,d69d967d-9cce7190,3c8f75a1-dcfbe471,a4406b35-1657e2d6,408da146-1657e2d6,9a38bae3-6046c8a7,2d1e43a3-3d47f4f4,370ace14-3f4a17df,386dc267-3d47f4f4, \
+-F ver=145.0.7632.117 \
+-F upload_file_minidump=@/d1c0b583-1fb5-47dc-9372-fb48376a4ae9.dmp \
+--proxy http://localhost:9090
