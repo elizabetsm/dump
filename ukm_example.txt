@@ -1,0 +1,902 @@
+client_id: 11603449067075502927
+system_profile {
+  build_timestamp: 1772492513
+  app_version: "145.0.7632.162-64"
+  application_locale: "en-US"
+  os {
+    name: "Mac OS X"
+    version: "26.3.0"
+  }
+  hardware {
+    cpu_architecture: "arm64"
+    system_ram_mb: 32768
+    hardware_class: "Mac14,6"
+    screen_count: 1
+    primary_screen_width: 4112
+    primary_screen_height: 2658
+    gpu {
+      vendor_id: 4203
+      device_id: 0
+      driver_version: "26.3"
+      gl_vendor: "Google Inc. (Apple)"
+      gl_renderer: "ANGLE (Apple, ANGLE Metal Renderer: Apple M2 Max, Version 26.3 (Build 25D125))"
+    }
+    primary_screen_scale_factor: 2
+    cpu {
+      vendor_name: "unknown"
+      signature: 0
+      num_cores: 12
+      is_hypervisor: false
+      num_efficient_cores: 4
+    }
+    app_cpu_architecture: "ARM_64"
+    form_factor: FORM_FACTOR_DESKTOP
+  }
+  field_trial {
+    name_id: 144351184
+    group_id: 3076257075
+  }
+  field_trial {
+    name_id: 2565895512
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 1009225740
+    group_id: 2556022648
+  }
+  field_trial {
+    name_id: 784550243
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 1971437780
+    group_id: 1862581041
+  }
+  field_trial {
+    name_id: 2052499254
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 2112309659
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 2303759175
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 1762373912
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 3575688931
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 3506212317
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 4272730019
+    group_id: 1545558628
+  }
+  field_trial {
+    name_id: 1781709965
+    group_id: 2472579343
+  }
+  field_trial {
+    name_id: 3504814908
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 73884625
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 406955841
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 2902947376
+    group_id: 3335832956
+  }
+  field_trial {
+    name_id: 1664736874
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 604597062
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 1420946498
+    group_id: 590826247
+  }
+  field_trial {
+    name_id: 3842772947
+    group_id: 333665285
+  }
+  field_trial {
+    name_id: 2721649292
+    group_id: 333665285
+  }
+  field_trial {
+    name_id: 2324344648
+    group_id: 333665285
+  }
+  field_trial {
+    name_id: 3608429856
+    group_id: 333665285
+  }
+  field_trial {
+    name_id: 1384731828
+    group_id: 333665285
+  }
+  field_trial {
+    name_id: 3277229400
+    group_id: 1847020366
+  }
+  field_trial {
+    name_id: 1837125096
+    group_id: 333665285
+  }
+  field_trial {
+    name_id: 1411344133
+    group_id: 333665285
+  }
+  field_trial {
+    name_id: 87332581
+    group_id: 333665285
+  }
+  field_trial {
+    name_id: 2477154933
+    group_id: 333665285
+  }
+  field_trial {
+    name_id: 1039245554
+    group_id: 1847020366
+  }
+  field_trial {
+    name_id: 469306032
+    group_id: 333665285
+  }
+  field_trial {
+    name_id: 4198937319
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 1550327997
+    group_id: 1907676988
+  }
+  field_trial {
+    name_id: 1026624816
+    group_id: 3076257075
+  }
+  field_trial {
+    name_id: 3467329710
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 687945872
+    group_id: 2297105698
+  }
+  field_trial {
+    name_id: 992161412
+    group_id: 2306917281
+  }
+  field_trial {
+    name_id: 3119897394
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 1426098087
+    group_id: 2123815133
+  }
+  field_trial {
+    name_id: 1909207773
+    group_id: 1644413306
+  }
+  field_trial {
+    name_id: 167392176
+    group_id: 3821962461
+  }
+  field_trial {
+    name_id: 834174298
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 1856774842
+    group_id: 590826247
+  }
+  field_trial {
+    name_id: 1968705244
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 1618928857
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 3615274895
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 4152398881
+    group_id: 3076257075
+  }
+  field_trial {
+    name_id: 2007419353
+    group_id: 1391596984
+  }
+  field_trial {
+    name_id: 1128164134
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 1580874094
+    group_id: 2997800008
+  }
+  field_trial {
+    name_id: 425311007
+    group_id: 2200634830
+  }
+  field_trial {
+    name_id: 4219400276
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 485730394
+    group_id: 3158226341
+  }
+  field_trial {
+    name_id: 2483261406
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 4053218971
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 2647017329
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 3733967452
+    group_id: 267574212
+  }
+  field_trial {
+    name_id: 1371799858
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 2518007774
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 3723527303
+    group_id: 3212236020
+  }
+  field_trial {
+    name_id: 1943485854
+    group_id: 893592999
+  }
+  field_trial {
+    name_id: 2122885106
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 3520068692
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 3959418092
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 1379527833
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 1022692363
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 1290117316
+    group_id: 3220400462
+  }
+  field_trial {
+    name_id: 3459276135
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 1823870282
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 3215674681
+    group_id: 200084980
+  }
+  field_trial {
+    name_id: 362715141
+    group_id: 3076257075
+  }
+  field_trial {
+    name_id: 4275292090
+    group_id: 590826247
+  }
+  field_trial {
+    name_id: 2680683107
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 1326323187
+    group_id: 339225980
+  }
+  field_trial {
+    name_id: 190508240
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 1737521867
+    group_id: 3200813469
+  }
+  field_trial {
+    name_id: 2482567665
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 2784461090
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 105330800
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 1152602437
+    group_id: 3346554249
+  }
+  field_trial {
+    name_id: 3018046505
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 45270471
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 2373189083
+    group_id: 58004479
+  }
+  field_trial {
+    name_id: 1445621232
+    group_id: 2749172376
+  }
+  field_trial {
+    name_id: 86003866
+    group_id: 3076257075
+  }
+  field_trial {
+    name_id: 2316537719
+    group_id: 3887858415
+  }
+  field_trial {
+    name_id: 3000421268
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 1289431125
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 3143537555
+    group_id: 3804503837
+  }
+  field_trial {
+    name_id: 1137556012
+    group_id: 4221836310
+  }
+  field_trial {
+    name_id: 3255841399
+    group_id: 3460975081
+  }
+  field_trial {
+    name_id: 180027349
+    group_id: 4043970311
+  }
+  field_trial {
+    name_id: 3857977959
+    group_id: 318021539
+  }
+  field_trial {
+    name_id: 1826505124
+    group_id: 2386970597
+  }
+  field_trial {
+    name_id: 3250974214
+    group_id: 3205149191
+  }
+  field_trial {
+    name_id: 1749889192
+    group_id: 3825760253
+  }
+  field_trial {
+    name_id: 1737790582
+    group_id: 3704017797
+  }
+  field_trial {
+    name_id: 2841339997
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 1104174658
+    group_id: 1847273860
+  }
+  field_trial {
+    name_id: 1838861637
+    group_id: 736697216
+  }
+  field_trial {
+    name_id: 828461055
+    group_id: 516071962
+  }
+  field_trial {
+    name_id: 1172834943
+    group_id: 590826247
+  }
+  field_trial {
+    name_id: 3344904790
+    group_id: 1662217321
+  }
+  field_trial {
+    name_id: 2417177518
+    group_id: 1860349627
+  }
+  field_trial {
+    name_id: 3904041145
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 575074775
+    group_id: 3713463703
+  }
+  field_trial {
+    name_id: 3305573152
+    group_id: 3421216289
+  }
+  field_trial {
+    name_id: 1524120885
+    group_id: 3742237359
+  }
+  field_trial {
+    name_id: 1948205754
+    group_id: 37279995
+  }
+  field_trial {
+    name_id: 495656190
+    group_id: 2524481462
+  }
+  field_trial {
+    name_id: 1107544053
+    group_id: 2651872751
+  }
+  field_trial {
+    name_id: 549848572
+    group_id: 3785596813
+  }
+  field_trial {
+    name_id: 2152713931
+    group_id: 2915641506
+  }
+  field_trial {
+    name_id: 1342969388
+    group_id: 3856659136
+  }
+  field_trial {
+    name_id: 2796297518
+    group_id: 2080427958
+  }
+  field_trial {
+    name_id: 452583102
+    group_id: 1126872627
+  }
+  field_trial {
+    name_id: 3010805801
+    group_id: 2915641506
+  }
+  field_trial {
+    name_id: 2533130054
+    group_id: 716191246
+  }
+  field_trial {
+    name_id: 3522624121
+    group_id: 2080427958
+  }
+  field_trial {
+    name_id: 1974050686
+    group_id: 2564831859
+  }
+  field_trial {
+    name_id: 3127664148
+    group_id: 590826247
+  }
+  field_trial {
+    name_id: 1781645358
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 2796106434
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 851165642
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 1496310442
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 3012184008
+    group_id: 2511735432
+  }
+  field_trial {
+    name_id: 1623066980
+    group_id: 2520219839
+  }
+  field_trial {
+    name_id: 2363886158
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 3472312963
+    group_id: 3863800883
+  }
+  field_trial {
+    name_id: 3343437436
+    group_id: 3285965652
+  }
+  field_trial {
+    name_id: 1101708866
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 1675187060
+    group_id: 448538632
+  }
+  field_trial {
+    name_id: 205751798
+    group_id: 155758790
+  }
+  field_trial {
+    name_id: 3996900628
+    group_id: 2871317481
+  }
+  field_trial {
+    name_id: 3790538470
+    group_id: 1762767477
+  }
+  field_trial {
+    name_id: 2601981171
+    group_id: 1847273860
+  }
+  field_trial {
+    name_id: 1421935210
+    group_id: 1847273860
+  }
+  field_trial {
+    name_id: 2746412498
+    group_id: 2306331656
+  }
+  field_trial {
+    name_id: 3760409680
+    group_id: 917681394
+  }
+  field_trial {
+    name_id: 1627970582
+    group_id: 2880544882
+  }
+  field_trial {
+    name_id: 2373634102
+    group_id: 3758616746
+  }
+  field_trial {
+    name_id: 3218894257
+    group_id: 1950024398
+  }
+  field_trial {
+    name_id: 2601864577
+    group_id: 3758616746
+  }
+  field_trial {
+    name_id: 3036590884
+    group_id: 3508171027
+  }
+  field_trial {
+    name_id: 3811129701
+    group_id: 917681394
+  }
+  field_trial {
+    name_id: 1453057120
+    group_id: 462955800
+  }
+  field_trial {
+    name_id: 1641541208
+    group_id: 917681394
+  }
+  field_trial {
+    name_id: 3354794097
+    group_id: 917681394
+  }
+  field_trial {
+    name_id: 2575192242
+    group_id: 917681394
+  }
+  field_trial {
+    name_id: 2164403381
+    group_id: 1847273860
+  }
+  field_trial {
+    name_id: 3840670743
+    group_id: 4033288255
+  }
+  field_trial {
+    name_id: 3764315229
+    group_id: 1847273860
+  }
+  field_trial {
+    name_id: 3176840288
+    group_id: 590826247
+  }
+  field_trial {
+    name_id: 2956567481
+    group_id: 1847273860
+  }
+  field_trial {
+    name_id: 53969659
+    group_id: 2161669307
+  }
+  field_trial {
+    name_id: 3331677402
+    group_id: 2823677391
+  }
+  field_trial {
+    name_id: 4109723577
+    group_id: 2967409086
+  }
+  field_trial {
+    name_id: 1326899295
+    group_id: 2967409086
+  }
+  channel: CHANNEL_STABLE
+  brand_code: "GGRO"
+  network {
+    connection_type_is_ambiguous: false
+    connection_type: CONNECTION_UNKNOWN
+    min_effective_connection_type: EFFECTIVE_CONNECTION_TYPE_4G
+    max_effective_connection_type: EFFECTIVE_CONNECTION_TYPE_4G
+  }
+  install_date: 1772100000
+  chrome_component {
+    component_id: PKI_METADATA
+    version: "1610"
+    omaha_fingerprint: 0
+    cohort_hash: 2094576518
+  }
+  chrome_component {
+    component_id: SUBRESOURCE_FILTER
+    version: "9.65.0"
+    omaha_fingerprint: 0
+    cohort_hash: 1868936360
+  }
+  chrome_component {
+    component_id: CROWD_DENY
+    version: "2026.3.16.334"
+    omaha_fingerprint: 0
+    cohort_hash: 2382376956
+  }
+  chrome_component {
+    component_id: SSL_ERROR_ASSISTANT
+    version: "7"
+    omaha_fingerprint: 0
+    cohort_hash: 474597947
+  }
+  chrome_component {
+    component_id: FIRST_PARTY_SETS
+    version: "2025.7.24.0"
+    omaha_fingerprint: 0
+    cohort_hash: 3211879177
+  }
+  chrome_component {
+    component_id: AMOUNT_EXTRACTION_HEURISTIC_REGEXES
+    version: "4"
+    omaha_fingerprint: 0
+    cohort_hash: 3769671606
+  }
+  chrome_component {
+    component_id: CRL_SET
+    version: "10411"
+    omaha_fingerprint: 0
+    cohort_hash: 1657210788
+  }
+  chrome_component {
+    component_id: RECOVERY_IMPROVED
+    version: "0.0.0.0"
+    omaha_fingerprint: 0
+    cohort_hash: 10546651
+  }
+  chrome_component {
+    component_id: THIRD_PARTY_COOKIE_DEPRECATION_METADATA
+    version: "0.0.0.0"
+    omaha_fingerprint: 0
+    cohort_hash: 2832747417
+  }
+  chrome_component {
+    component_id: SAFETY_TIPS
+    version: "3091"
+    omaha_fingerprint: 0
+    cohort_hash: 4106696047
+  }
+  chrome_component {
+    component_id: FILE_TYPE_POLICIES
+    version: "145.0.7584.0"
+    omaha_fingerprint: 0
+    cohort_hash: 4206883925
+  }
+  chrome_component {
+    component_id: TRUST_TOKEN_KEY_COMMITMENTS
+    version: "2026.2.25.1"
+    omaha_fingerprint: 0
+    cohort_hash: 3868014710
+  }
+  chrome_component {
+    component_id: MEI_PRELOAD
+    version: "1.1.0.3"
+    omaha_fingerprint: 0
+    cohort_hash: 4122327938
+  }
+  chrome_component {
+    component_id: ORIGIN_TRIALS
+    version: "0.0.0.0"
+    omaha_fingerprint: 0
+    cohort_hash: 10546651
+  }
+  chrome_component {
+    component_id: OPTIMIZATION_HINTS
+    version: "643"
+    omaha_fingerprint: 0
+    cohort_hash: 4212173585
+  }
+  chrome_component {
+    component_id: ON_DEVICE_HEAD_SUGGEST
+    version: "20251024.824731831.14"
+    omaha_fingerprint: 0
+    cohort_hash: 621096638
+  }
+  chrome_component {
+    component_id: WIDEVINE_CDM
+    version: "4.10.2934.0"
+    omaha_fingerprint: 0
+    cohort_hash: 47060692
+  }
+  chrome_component {
+    component_id: ZXCVBN_DATA
+    version: "3"
+    omaha_fingerprint: 0
+    cohort_hash: 3056913123
+  }
+  variations_seed_version: "20260318-170044.466000-production"
+  low_entropy_source: 7575
+  old_low_entropy_source: -1
+  pseudo_low_entropy_source: 7219
+  command_line_key_hash: 2877819170
+  command_line_key_hash: 3083680408
+  command_line_key_hash: 82350099
+  command_line_key_hash: 3690825444
+  command_line_key_hash: 2732395321
+  command_line_key_hash: 2134075599
+  command_line_key_hash: 969033824
+  command_line_key_hash: 1561195340
+  session_hash: 7410706061859625124
+  accessibility_state {
+    enabled_modes: NATIVE_APIS
+    enabled_modes: WEB_CONTENTS
+    enabled_modes: INLINE_TEXT_BOXES
+    enabled_modes: EXTENDED_PROPERTIES
+    enabled_modes: SCREEN_READER
+  }
+  seed_has_active_limited_layer: false
+}
+sources {
+  id: -9168266919252324343
+  urls {
+    url: "https://www.hellomagazine.com/"
+  }
+  type: REDIRECT_ID
+  navigation_metadata {
+    same_origin_status: SAME_ORIGIN_STATUS_UNSET
+    is_renderer_initiated: false
+    is_error_page: false
+  }
+}
+sources {
+  id: 81
+  navigation_time_msec: 519722371
+  urls {
+    url: "chrome://ukm/"
+  }
+  tab_id: 1
+  previous_source_id: 17
+  type: NAVIGATION_ID
+  navigation_metadata {
+    same_origin_status: CROSS_ORIGIN
+    is_renderer_initiated: false
+    is_error_page: false
+  }
+}
+sources {
+  id: 353
+  navigation_time_msec: 519737039
+  urls {
+    url: "https://www.hellomagazine.com/"
+  }
+  tab_id: 2
+  previous_source_id: 289
+  previous_same_document_source_id: 305
+  type: NAVIGATION_ID
+  navigation_metadata {
+    same_origin_status: SAME_ORIGIN_STATUS_UNSET
+    is_renderer_initiated: true
+    is_error_page: false
+  }
+}
+sources {
+  id: 545
+  navigation_time_msec: 519755288
+  urls {
+    url: "chrome://metrics-internals/"
+  }
+  tab_id: 3
+  previous_source_id: 529
+  type: NAVIGATION_ID
+  navigation_metadata {
+    same_origin_status: CROSS_ORIGIN
+    is_renderer_initiated: false
+    is_error_page: false
+  }
+}
+sources {
+  id: 689
+  navigation_time_msec: 519785175
+  urls {
+    url: "https://www.google.com/search?q=no&sca_esv=d7bb72517620dcfa&sxsrf=ANbL-n5ZKHooAvCs1H3Fv6-6SfjLSj04gw%3A1773902800044&ei=0Ju7aYe1AvPJwPAPrY2moQY&ved=0ahUKEwiH3YzyrquTAxXzJBAIHa2GKWQQ4dUDCBE&uact=5&oq=no&gs_lp=Egxnd3Mtd2l6LXNlcnAiAm5vMgoQIxiABBgnGIoFMgoQIxiABBgnGIoFMhAQLhiABBixAxhDGIMBGIoFMgoQLhiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMhYQLhiABBixAxjRAxhDGIMBGMcBGIoFMg0QABiABBixAxhDGIoFMgsQLhiABBixAxiDATIIEC4YgAQYsQNI2gtQpgdYlQlwAngAkAEBmAHXAaABhgOqAQUyLjAuMbgBA8gBAPgBAZgCBKACxwHCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICDhAAGLADGOQCGNYE2AEBwgIXEC4YsAMYuAYY2AIYyAMY2gYY3AbYAQHCAgQQIxgnwgIUEC4YgAQYsQMY0QMYgwEYxwEYigXCAggQABiABBixA8ICDhAuGIAEGLEDGNEDGMcBmAMAiAYBkAYTugYGCAEQARgJkgcDMy4xoAfTPbIHAzEuMbgHvAHCBwMyLTTIBxOACAA&sclient=gws-wiz-serp"
+  }
+  tab_id: 2
+  previous_source_id: 641
+  type: NAVIGATION_ID
+  navigation_metadata {
+    same_origin_status: CROSS_ORIGIN
+    is_renderer_initiated: false
+    is_error_page: false
+  }
+}
+session_id: 6
+report_id: 12
+is_continuous: true
+source_counts {
+  observed: 0
+  navigation_sources: 0
+  unmatched_sources: 0
+  carryover_sources: 5
+  deferred_sources: 5
+  entryless_sources: 5
+  pruned_sources_age_seconds: 0
+}
+user_demographics {
+  birth_year: 1995
+  gender: GENDER_FEMALE
+}
+downsampling_rates {
+  event_hash: 6101345584763590314
+  standard_rate: 1
+}
