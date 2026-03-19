@@ -1,37 +1,37 @@
-client_id: 11603449067075502927
-system_profile {
-  build_timestamp: 1772492513
-  app_version: "145.0.7632.162-64"
-  application_locale: "en-US"
-  os {
-    name: "Mac OS X"
-    version: "26.3.0"
-  }
-  hardware {
-    cpu_architecture: "arm64"
-    system_ram_mb: 32768
-    hardware_class: "Mac14,6"
-    screen_count: 1
-    primary_screen_width: 4112
-    primary_screen_height: 2658
-    gpu {
-      vendor_id: 4203
-      device_id: 0
-      driver_version: "26.3"
-      gl_vendor: "Google Inc. (Apple)"
-      gl_renderer: "ANGLE (Apple, ANGLE Metal Renderer: Apple M2 Max, Version 26.3 (Build 25D125))"
+  client_id: 11603449067075502927
+  system_profile {
+    build_timestamp: 1772492513
+    app_version: "145.0.7632.162-64"
+    application_locale: "en-US"
+    os {
+      name: "Mac OS X"
+      version: "26.3.0"
     }
-    primary_screen_scale_factor: 2
-    cpu {
-      vendor_name: "unknown"
-      signature: 0
-      num_cores: 12
-      is_hypervisor: false
-      num_efficient_cores: 4
+    hardware {
+      cpu_architecture: "arm64"
+      system_ram_mb: 32768
+      hardware_class: "Mac14,6"
+      screen_count: 1
+      primary_screen_width: 4112
+      primary_screen_height: 2658
+      gpu {
+        vendor_id: 4203
+        device_id: 0
+        driver_version: "26.3"
+        gl_vendor: "Google Inc. (Apple)"
+        gl_renderer: "ANGLE (Apple, ANGLE Metal Renderer: Apple M2 Max, Version 26.3 (Build 25D125))"
+      }
+      primary_screen_scale_factor: 2
+      cpu {
+        vendor_name: "unknown"
+        signature: 0
+        num_cores: 12
+        is_hypervisor: false
+        num_efficient_cores: 4
+      }
+      app_cpu_architecture: "ARM_64"
+      form_factor: FORM_FACTOR_DESKTOP
     }
-    app_cpu_architecture: "ARM_64"
-    form_factor: FORM_FACTOR_DESKTOP
-  }
   field_trial {
     name_id: 144351184
     group_id: 3076257075
@@ -278,7 +278,7 @@ system_profile {
   }
   field_trial {
     name_id: 1943485854
-    group_id: 893592999
+    group_id: 3083229299
   }
   field_trial {
     name_id: 2122885106
@@ -409,10 +409,6 @@ system_profile {
     group_id: 318021539
   }
   field_trial {
-    name_id: 1826505124
-    group_id: 2386970597
-  }
-  field_trial {
     name_id: 3250974214
     group_id: 3205149191
   }
@@ -450,7 +446,7 @@ system_profile {
   }
   field_trial {
     name_id: 2417177518
-    group_id: 1860349627
+    group_id: 1762767477
   }
   field_trial {
     name_id: 3904041145
@@ -502,7 +498,7 @@ system_profile {
   }
   field_trial {
     name_id: 3010805801
-    group_id: 2915641506
+    group_id: 4098454259
   }
   field_trial {
     name_id: 2533130054
@@ -562,7 +558,7 @@ system_profile {
   }
   field_trial {
     name_id: 1675187060
-    group_id: 448538632
+    group_id: 1762767477
   }
   field_trial {
     name_id: 205751798
@@ -715,7 +711,7 @@ system_profile {
   }
   chrome_component {
     component_id: CRL_SET
-    version: "10411"
+    version: "10413"
     omaha_fingerprint: 0
     cohort_hash: 1657210788
   }
@@ -797,7 +793,7 @@ system_profile {
   command_line_key_hash: 2134075599
   command_line_key_hash: 969033824
   command_line_key_hash: 1561195340
-  session_hash: 7410706061859625124
+  session_hash: 17797836792804110772
   accessibility_state {
     enabled_modes: NATIVE_APIS
     enabled_modes: WEB_CONTENTS
@@ -808,20 +804,8 @@ system_profile {
   seed_has_active_limited_layer: false
 }
 sources {
-  id: -9168266919252324343
-  urls {
-    url: "https://www.hellomagazine.com/"
-  }
-  type: REDIRECT_ID
-  navigation_metadata {
-    same_origin_status: SAME_ORIGIN_STATUS_UNSET
-    is_renderer_initiated: false
-    is_error_page: false
-  }
-}
-sources {
-  id: 81
-  navigation_time_msec: 519722371
+  id: 65
+  navigation_time_msec: 520049534
   urls {
     url: "chrome://ukm/"
   }
@@ -835,29 +819,28 @@ sources {
   }
 }
 sources {
-  id: 353
-  navigation_time_msec: 519737039
+  id: 321
+  navigation_time_msec: 520082829
   urls {
-    url: "https://www.hellomagazine.com/"
+    url: "https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/hello"
   }
   tab_id: 2
-  previous_source_id: 289
-  previous_same_document_source_id: 305
+  previous_source_id: 305
   type: NAVIGATION_ID
   navigation_metadata {
     same_origin_status: SAME_ORIGIN_STATUS_UNSET
     is_renderer_initiated: true
-    is_error_page: false
+    is_error_page: true
   }
 }
 sources {
-  id: 545
-  navigation_time_msec: 519755288
+  id: 385
+  navigation_time_msec: 520090327
   urls {
     url: "chrome://metrics-internals/"
   }
   tab_id: 3
-  previous_source_id: 529
+  previous_source_id: 337
   type: NAVIGATION_ID
   navigation_metadata {
     same_origin_status: CROSS_ORIGIN
@@ -865,36 +848,136 @@ sources {
     is_error_page: false
   }
 }
-sources {
-  id: 689
-  navigation_time_msec: 519785175
-  urls {
-    url: "https://www.google.com/search?q=no&sca_esv=d7bb72517620dcfa&sxsrf=ANbL-n5ZKHooAvCs1H3Fv6-6SfjLSj04gw%3A1773902800044&ei=0Ju7aYe1AvPJwPAPrY2moQY&ved=0ahUKEwiH3YzyrquTAxXzJBAIHa2GKWQQ4dUDCBE&uact=5&oq=no&gs_lp=Egxnd3Mtd2l6LXNlcnAiAm5vMgoQIxiABBgnGIoFMgoQIxiABBgnGIoFMhAQLhiABBixAxhDGIMBGIoFMgoQLhiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMhYQLhiABBixAxjRAxhDGIMBGMcBGIoFMg0QABiABBixAxhDGIoFMgsQLhiABBixAxiDATIIEC4YgAQYsQNI2gtQpgdYlQlwAngAkAEBmAHXAaABhgOqAQUyLjAuMbgBA8gBAPgBAZgCBKACxwHCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICDhAAGLADGOQCGNYE2AEBwgIXEC4YsAMYuAYY2AIYyAMY2gYY3AbYAQHCAgQQIxgnwgIUEC4YgAQYsQMY0QMYgwEYxwEYigXCAggQABiABBixA8ICDhAuGIAEGLEDGNEDGMcBmAMAiAYBkAYTugYGCAEQARgJkgcDMy4xoAfTPbIHAzEuMbgHvAHCBwMyLTTIBxOACAA&sclient=gws-wiz-serp"
+session_id: 7
+report_id: 22
+aggregates {
+  source_id: 0
+  event_hash: 1484103205961568756
+  total_count: 1
+  dropped_due_to_limits: 0
+  dropped_due_to_sampling: 1
+  metrics {
+    metric_hash: 1647534641725523716
+    value_sum: 1
+    value_square_sum: 1
   }
-  tab_id: 2
-  previous_source_id: 641
-  type: NAVIGATION_ID
-  navigation_metadata {
-    same_origin_status: CROSS_ORIGIN
-    is_renderer_initiated: false
-    is_error_page: false
+  metrics {
+    metric_hash: 2001952298541068222
+    value_sum: 256
+    value_square_sum: 65536
   }
+  metrics {
+    metric_hash: 2972750681128012711
+    value_sum: 0
+    value_square_sum: 0
+  }
+  metrics {
+    metric_hash: 3986924567980634530
+    value_sum: 0
+    value_square_sum: 0
+  }
+  metrics {
+    metric_hash: 4655053852122721981
+    value_sum: 113
+    value_square_sum: 12769
+  }
+  metrics {
+    metric_hash: 4764183469636912406
+    value_sum: 0
+    value_square_sum: 0
+  }
+  metrics {
+    metric_hash: 5005689392526458623
+    value_sum: 0
+    value_square_sum: 0
+  }
+  metrics {
+    metric_hash: 5770286108963634075
+    value_sum: 0
+    value_square_sum: 0
+  }
+  metrics {
+    metric_hash: 6261712889956192806
+    value_sum: 147
+    value_square_sum: 21609
+  }
+  metrics {
+    metric_hash: 6926632203034980955
+    value_sum: 46669
+    value_square_sum: 2177995561
+  }
+  metrics {
+    metric_hash: 8012802177325134825
+    value_sum: 0
+    value_square_sum: 0
+  }
+  metrics {
+    metric_hash: 9007247521834190514
+    value_sum: 0
+    value_square_sum: 0
+  }
+  metrics {
+    metric_hash: 9962046382391466848
+    value_sum: 3
+    value_square_sum: 9
+  }
+  metrics {
+    metric_hash: 10060515322332976046
+    value_sum: 120
+    value_square_sum: 14400
+  }
+  metrics {
+    metric_hash: 10740279131128052720
+    value_sum: 12
+    value_square_sum: 144
+  }
+  metrics {
+    metric_hash: 10973494702066475513
+    value_sum: 0
+    value_square_sum: 0
+  }
+  metrics {
+    metric_hash: 13129480748900936528
+    value_sum: 5
+    value_square_sum: 25
+  }
+  metrics {
+    metric_hash: 14500460936964638692
+    value_sum: 0
+    value_square_sum: 0
+  }
+  metrics {
+    metric_hash: 15495195187441109248
+    value_sum: 0
+    value_square_sum: 0
+  }
+  metrics {
+    metric_hash: 15536078874238250161
+    value_sum: 1
+    value_square_sum: 1
+  }
+  metrics {
+    metric_hash: 17527225635667832158
+    value_sum: 0
+    value_square_sum: 0
+  }
+  metrics {
+    metric_hash: 18385055160424753010
+    value_sum: 113
+    value_square_sum: 12769
+  }
+  dropped_due_to_filter: 0
+  dropped_due_to_unconfigured: 0
 }
-session_id: 6
-report_id: 12
 is_continuous: true
 source_counts {
   observed: 0
   navigation_sources: 0
   unmatched_sources: 0
-  carryover_sources: 5
-  deferred_sources: 5
-  entryless_sources: 5
+  carryover_sources: 3
+  deferred_sources: 3
+  entryless_sources: 3
   pruned_sources_age_seconds: 0
-}
-user_demographics {
-  birth_year: 1995
-  gender: GENDER_FEMALE
 }
 downsampling_rates {
   event_hash: 6101345584763590314
